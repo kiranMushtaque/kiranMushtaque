@@ -1,11 +1,11 @@
-# 🌸 About Me
+# 🌸 Hi, I’m Kiran Mushtaque
 
-🎀 **Full-Stack Developer** passionate about crafting **modern, scalable, and aesthetic web experiences**.  
-✨ Experienced in **React, Next.js, Python, TypeScript**, and **AI-powered projects**.  
-🌐 Exploring **Cloud, Generative AI, and Web 3.0**.  
-🌸 Love blending **creativity + logic** to build impactful solutions.  
+🎀 **Full-Stack Developer | AI Enthusiast | Cloud & Web3 Explorer**  
 
-📫 **Contact Me:** [kiranmushtaque373@gmail.com](mailto:kiranmushtaque373@gmail.com)  
+I craft **modern, scalable, and aesthetic web experiences**, blending **creativity + logic** to build impactful solutions.  
+I’m passionate about **AI, cloud technologies, and Web3**, and I love experimenting with **innovative projects**.  
+
+📫 **Reach Me:** [kiranmushtaque373@gmail.com](mailto:kiranmushtaque373@gmail.com)  
 
 ---
 
@@ -19,3 +19,15 @@
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) 
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/) 
 [![Web3](https://img.shields.io/badge/Web3-000000?style=for-the-badge&logo=ethereum&logoColor=white)](https://web3js.readthedocs.io/)
+
+---
+
+## 📊 GitHub Stats
+
+![Kiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiranMushtaque&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiranMushtaque&layout=compact&theme=radical)
+
+---
+
+## ⚡ Fun Fact
+Trained in **Computer Information Technology** for 3 years, now diving deep into **AI** at the **Governor House**.  
