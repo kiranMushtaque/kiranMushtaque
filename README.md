@@ -1,9 +1,13 @@
 # 🌸 Hi, I’m Kiran Mushtaque
 
-🎀 **Full-Stack Developer | AI Enthusiast | Cloud & Web3 Explorer**
+🎀 **Full-Stack Developer | AI Enthusiast | Cloud & Web3 Explorer**  
 
 I craft **modern, scalable, and aesthetic web experiences**, blending **creativity + logic** to build impactful solutions.  
 I’m passionate about **AI**, **cloud technologies**, and **Web3**, and I love experimenting with **innovative projects**.
+
+📫 **Reach Me:** [kiranmushtaque373@gmail.com](mailto:kiranmushtaque373@gmail.com)  
+🔗 **LinkedIn:** [Kiran Mushtaque](https://www.linkedin.com/in/kiran-m-9b238b2b6/)  
+🌐 **Portfolio:** [My Portfolio](https://your-portfolio-link.com)  <!-- Replace with your actual portfolio URL -->
 
 ---
 
@@ -22,20 +26,9 @@ I’m passionate about **AI**, **cloud technologies**, and **Web3**, and I love 
 
 ## 📊 GitHub Stats
 
-![Kiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiranMushtaque&show_icons=true&theme=radical)
-
----
-
-## 📈 Top Languages
+![Kiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiranMushtaque&show_icons=true&theme=radical)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiranMushtaque&layout=compact&theme=radical)
-
----
-
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiran-m-9b238b2b6/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kiranmushtaque373@gmail.com)
 
 ---
 
