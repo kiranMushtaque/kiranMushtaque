@@ -1,11 +1,16 @@
-# 🌸 Hi, I’m Kiran Mushtaque
+<p
+ align="center">
+ <a href="https://github.com/kiranMushtaque">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3BC2F3&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+Next.js+Specialist;TypeScript+%7C+TailwindCSS+Expert;Passionate+About+AI+%26+Web+Apps" alt="Typing Animation" />
+ </a>
+</p>
 
-🎀 **Full-Stack Developer | AI Enthusiast | Cloud & Web3 Explorer**  
+Seen by Kinza Khan at 3:47 PM.
+Reply to conversation with “Thanks for sharing”
+Thanks for sharing
+Reply to conversation with “I got it”
+I got it
 
-I craft **modern, scalable, and aesthetic web experiences**, blending **creativity + logic** to build impactful solutions.  
-I’m passionate about **AI**, **cloud technologies**, and **Web3**, and I love experimenting with **innovative projects**.
-
----
 
 ## 🌐 Connect With Me
 
