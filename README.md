@@ -5,11 +5,6 @@
  </a>
 </p>
 
-Seen by Kinza Khan at 3:47 PM.
-Reply to conversation with “Thanks for sharing”
-Thanks for sharing
-Reply to conversation with “I got it”
-I got it
 
 
 ## 🌐 Connect With Me
